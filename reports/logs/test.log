@@ -1,0 +1,39 @@
+[2026-07-03T11:20:15.124Z] INFO - Launching Browser
+[2026-07-03T11:20:15.778Z] INFO - Creating New Context
+[2026-07-03T11:20:15.829Z] INFO - Creating Page
+[2026-07-03T11:20:16.301Z] INFO - Launching URL
+[2026-07-03T11:20:18.974Z] INFO - Clicking My Account Link
+[2026-07-03T11:20:20.417Z] INFO - Clicking Login Link in Drop Down
+[2026-07-03T11:20:25.166Z] INFO - Entering Email
+[2026-07-03T11:20:25.322Z] INFO - Entering Password
+[2026-07-03T11:20:25.393Z] INFO - Clicking Login Button
+[2026-07-03T11:20:27.494Z] INFO - Login Successful
+[2026-07-03T11:20:27.498Z] INFO - Closing Page
+[2026-07-03T11:20:27.546Z] INFO - Closing Context
+[2026-07-03T11:20:27.624Z] INFO - Closing Browser
+[2026-07-03T11:24:20.687Z] INFO - Launching Browser
+[2026-07-03T11:24:21.292Z] INFO - Creating New Context
+[2026-07-03T11:24:21.354Z] INFO - Creating Page
+[2026-07-03T11:24:21.886Z] INFO - Launching URL
+[2026-07-03T11:24:24.026Z] INFO - Clicking My Account Link
+[2026-07-03T11:24:25.268Z] INFO - Clicking Login Link in Drop Down
+[2026-07-03T11:24:28.666Z] INFO - Entering Email
+[2026-07-03T11:24:28.816Z] INFO - Entering Password
+[2026-07-03T11:24:28.879Z] INFO - Clicking Login Button
+[2026-07-03T11:24:30.190Z] INFO - Login Successful
+[2026-07-03T11:24:30.194Z] INFO - Closing Page
+[2026-07-03T11:24:30.243Z] INFO - Closing Context
+[2026-07-03T11:24:30.316Z] INFO - Closing Browser
+[2026-07-03T11:25:06.052Z] INFO-Launching Browser
+[2026-07-03T11:25:06.610Z] INFO-Creating New Context
+[2026-07-03T11:25:06.714Z] INFO-Creating Page
+[2026-07-03T11:25:07.250Z] INFO-Launching URL
+[2026-07-03T11:25:09.940Z] INFO-Clicking My Account Link
+[2026-07-03T11:25:10.464Z] INFO-Clicking Login Link in Drop Down
+[2026-07-03T11:25:13.755Z] INFO-Entering Email
+[2026-07-03T11:25:13.886Z] INFO-Entering Password
+[2026-07-03T11:25:13.948Z] INFO-Clicking Login Button
+[2026-07-03T11:25:15.270Z] INFO-Login Successful
+[2026-07-03T11:25:15.275Z] INFO-Closing Page
+[2026-07-03T11:25:15.316Z] INFO-Closing Context
+[2026-07-03T11:25:15.420Z] INFO-Closing Browser
