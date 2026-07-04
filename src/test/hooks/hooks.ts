@@ -1,15 +1,20 @@
 import { CustomWorld } from "../world/world";
 import { Before, After, BeforeAll, AfterAll, Status } from "@cucumber/cucumber";
-import { chromium, type Browser } from "@playwright/test";
+import { chromium, Browser, firefox, webkit } from "@playwright/test";
 import { LoginPage } from "../pages/loginpage";
 import { HomePage } from "../pages/homepage";
 import { AccountPage } from "../pages/accountpage";
 import { logger } from "../utils/logger";
+import { ENV } from "../utils/envReader";
 
 let browser: Browser;
 BeforeAll(async () => {
     logger.info("Launching Browser");
-    browser = await chromium.launch({ headless: false })
+    const browserName = ENV.BROWSER;
+
+    const browserType = browserName === "firefox" ? firefox : browserName === "webkit" ? webkit : chromium;
+
+    browser = await browserType.launch({ headless: false });
 })
 Before(async function (this: CustomWorld) {
     this.browser = browser;

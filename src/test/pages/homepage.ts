@@ -1,5 +1,6 @@
 import { Page, Locator } from '@playwright/test';
 import { BasePage } from './basepage';
+import { ENV } from '../utils/envReader';
 export class HomePage extends BasePage {
     private page: Page;
     private MyaccountButton: Locator;
@@ -14,7 +15,7 @@ export class HomePage extends BasePage {
         this.loginButton = page.locator("//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login']");
     }
     async navigate() {
-        await this.page.goto("https://tutorialsninja.com/demo/");
+        await this.page.goto(ENV.BASE_URL);
     }
     async clickMyaccount() {
         await this.click(this.MyaccountButton)

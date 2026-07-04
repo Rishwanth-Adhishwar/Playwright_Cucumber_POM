@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 634084800
+              "duration": 523028499
             }
           },
           {
@@ -23,11 +23,11 @@
             "line": 4,
             "name": "The user is on Home Page",
             "match": {
-              "location": "src\\test\\stepDefinitions\\login.step.ts:5"
+              "location": "src\\test\\stepDefinitions\\login.step.ts:8"
             },
             "result": {
               "status": "passed",
-              "duration": 2687940999
+              "duration": 1644918700
             }
           },
           {
@@ -36,11 +36,11 @@
             "line": 7,
             "name": "The User Clicks on My account link in Homepage",
             "match": {
-              "location": "src\\test\\stepDefinitions\\login.step.ts:10"
+              "location": "src\\test\\stepDefinitions\\login.step.ts:13"
             },
             "result": {
               "status": "passed",
-              "duration": 522006999
+              "duration": 2069145999
             }
           },
           {
@@ -49,11 +49,11 @@
             "line": 8,
             "name": "The user clicks Login In Drop Down",
             "match": {
-              "location": "src\\test\\stepDefinitions\\login.step.ts:16"
+              "location": "src\\test\\stepDefinitions\\login.step.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 3288853399
+              "duration": 4251606900
             }
           },
           {
@@ -62,11 +62,11 @@
             "line": 9,
             "name": "The user Enters The valid Email",
             "match": {
-              "location": "src\\test\\stepDefinitions\\login.step.ts:21"
+              "location": "src\\test\\stepDefinitions\\login.step.ts:24"
             },
             "result": {
               "status": "passed",
-              "duration": 129441200
+              "duration": 146814900
             }
           },
           {
@@ -75,11 +75,11 @@
             "line": 10,
             "name": "The User Enters The Valid Password",
             "match": {
-              "location": "src\\test\\stepDefinitions\\login.step.ts:26"
+              "location": "src\\test\\stepDefinitions\\login.step.ts:33"
             },
             "result": {
               "status": "passed",
-              "duration": 60462299
+              "duration": 56122600
             }
           },
           {
@@ -88,11 +88,11 @@
             "line": 11,
             "name": "The User Clicks On Login Button",
             "match": {
-              "location": "src\\test\\stepDefinitions\\login.step.ts:31"
+              "location": "src\\test\\stepDefinitions\\login.step.ts:42"
             },
             "result": {
               "status": "passed",
-              "duration": 1214906199
+              "duration": 1521030899
             }
           },
           {
@@ -101,11 +101,11 @@
             "line": 12,
             "name": "The User Should be Succesfully Logged In",
             "match": {
-              "location": "src\\test\\stepDefinitions\\login.step.ts:36"
+              "location": "src\\test\\stepDefinitions\\login.step.ts:47"
             },
             "result": {
               "status": "passed",
-              "duration": 108130100
+              "duration": 108562299
             }
           },
           {
@@ -113,7 +113,125 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 144027899
+              "duration": 350776200
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "login-test-for-tutorials-ninja-website;invalid-login",
+        "keyword": "Scenario",
+        "line": 14,
+        "name": "invalid login",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 387712599
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "The user is on Home Page",
+            "match": {
+              "location": "src\\test\\stepDefinitions\\login.step.ts:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2095333800
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "The User Clicks on My account link in Homepage",
+            "match": {
+              "location": "src\\test\\stepDefinitions\\login.step.ts:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 168085399
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 16,
+            "name": "The user clicks Login In Drop Down",
+            "match": {
+              "location": "src\\test\\stepDefinitions\\login.step.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 292174099
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 17,
+            "name": "The user Enters The invalid Email",
+            "match": {
+              "location": "src\\test\\stepDefinitions\\login.step.ts:51"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 92950799
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 18,
+            "name": "The User Enters The inValid Password",
+            "match": {
+              "location": "src\\test\\stepDefinitions\\login.step.ts:59"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 63046399
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 19,
+            "name": "The User Clicks On Login Button",
+            "match": {
+              "location": "src\\test\\stepDefinitions\\login.step.ts:42"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1121150100
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 20,
+            "name": "The User Should be Displayed with Error Message",
+            "match": {
+              "location": "src\\test\\stepDefinitions\\login.step.ts:67"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 55194900
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 56925100
             }
           }
         ],

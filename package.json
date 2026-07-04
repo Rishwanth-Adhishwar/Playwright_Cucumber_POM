@@ -10,7 +10,9 @@
     "parallel": "cucumber-js --parallel 2",
     "re:fail": "cucumber-js -p rerun",
     "ci": "cucumber-js --tags @smoke --format json:reports/report.json",
-    "posttest": "npx ts-node src/test/utils/report.mts"
+    "posttest": "npx ts-node src/test/utils/report.mts",
+    "test:qa": "cross-env TEST_ENV=qa cucumber-js",
+    "test:uat": "cross-env TEST_ENV=uat cucumber-js"
   },
   "keywords": [],
   "author": "",
@@ -28,6 +30,7 @@
     "tsx": "^4.22.4"
   },
   "dependencies": {
+    "csv-parse": "^7.0.1",
     "tsc": "^2.0.4"
   }
 }

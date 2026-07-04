@@ -11,7 +11,7 @@ export class BasePage {
     }
 
     async toContainText(locator: Locator, expected: string) {
-        const text = await locator.textContent();
+        const text = await locator.textContent({ timeout: 20000 });
         expect(text).toContain(expected);
     }
 

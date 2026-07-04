@@ -1,0 +1,4 @@
+type,email,password
+validLogin,cbheem@gmail.com,ChottaBheem
+invalidLogin,cbheem@gmail.com,wrongpasswordd
+invalidLogin,wrongmail@gmail.com,ChottaBheem

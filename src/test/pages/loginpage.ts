@@ -24,4 +24,7 @@ export class LoginPage extends BasePage {
     async clickLogin() {
         await this.click(this.loginButton)
     }
+    async assertErrorMsg() {
+        await this.toContainText(this.errorMessage, "Warning");
+    }
 }
