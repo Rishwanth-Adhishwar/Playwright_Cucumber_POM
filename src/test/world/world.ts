@@ -3,8 +3,8 @@ import { LoginPage } from "../pages/loginpage";
 import { HomePage } from "../pages/homepage";
 import { setWorldConstructor, World } from "@cucumber/cucumber";
 import { AccountPage } from "../pages/accountpage";
-
-
+import { RegisterPage } from "../pages/registerpage";
+import { AccountSuccessPage } from "../pages/accountSuccesspage";
 
 export class CustomWorld extends World {
     browser!: Browser;
@@ -14,6 +14,8 @@ export class CustomWorld extends World {
     loginPage!: LoginPage;
     homePage!: HomePage;
     accountPage!: AccountPage;
+    registerPage!: RegisterPage;
+    accounSuccessPage!: AccountSuccessPage;
 
 }
 setWorldConstructor(CustomWorld);

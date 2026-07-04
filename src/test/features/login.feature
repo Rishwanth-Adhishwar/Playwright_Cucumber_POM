@@ -1,4 +1,4 @@
-Feature: Login Test FOr Tutorials Ninja Website
+Feature: Login Test For Tutorials Ninja Website
 
   Background:
     Given The user is on Home Page

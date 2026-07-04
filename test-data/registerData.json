@@ -1,0 +1,19 @@
+{
+    "validRegister":{
+        "firstName":"jemmy",
+        "lastName":"lanister",
+        "email":"lanistergotc@gmail.com",
+        "telephone":"8765432190",
+        "password":"JSJTGOT",
+        "cpassword":"JSJTGOT"
+    },
+    "invalidRegister":{
+        "firstName":"",
+        "lastName":"lanister",
+        "email":"lanistergot@gmail.com",
+        "telephone":"8765432190",
+        "password":"JSJTGOT",
+        "cpassword":"JSJTGOT"
+    }
+    
+}
