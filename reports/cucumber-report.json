@@ -4,17 +4,17 @@
     "elements": [
       {
         "description": "",
-        "id": "registeration-for-tutorials-ninja-website;registering-a-new-user-with-valid-credentials",
+        "id": "test-cart-functionality-of-tutorials-ninja-ecommerce-application;",
         "keyword": "Scenario",
-        "line": 7,
-        "name": "Registering a new user with valid Credentials",
+        "line": 12,
+        "name": "",
         "steps": [
           {
             "keyword": "Before",
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 213981099
+              "duration": 502534200
             }
           },
           {
@@ -27,208 +27,137 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1453064400
+              "duration": 1189486499
             }
           },
           {
             "arguments": [],
             "keyword": "When ",
-            "line": 8,
+            "line": 6,
             "name": "The User Clicks on My account link in Homepage",
             "match": {
               "location": "src\\test\\stepDefinitions\\login.step.ts:13"
             },
             "result": {
               "status": "passed",
-              "duration": 700664200
+              "duration": 1976057200
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "The user clicks Login In Drop Down",
+            "match": {
+              "location": "src\\test\\stepDefinitions\\login.step.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3231056700
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "The user Enters The valid Email",
+            "match": {
+              "location": "src\\test\\stepDefinitions\\login.step.ts:24"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 144054699
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
             "line": 9,
-            "name": "The User clicks Register In Drop Down",
+            "name": "The User Enters The Valid Password",
             "match": {
-              "location": "src\\test\\stepDefinitions\\register.step.ts:10"
+              "location": "src\\test\\stepDefinitions\\login.step.ts:33"
             },
             "result": {
               "status": "passed",
-              "duration": 1246864799
+              "duration": 58304700
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
             "line": 10,
-            "name": "The User Enters Personal Details and Password",
+            "name": "The User Clicks On Login Button",
             "match": {
-              "location": "src\\test\\stepDefinitions\\register.step.ts:14"
+              "location": "src\\test\\stepDefinitions\\login.step.ts:42"
             },
             "result": {
               "status": "passed",
-              "duration": 1033175100
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "And ",
-            "line": 11,
-            "name": "The User check the privacy policy Checkbox",
-            "match": {
-              "location": "src\\test\\stepDefinitions\\register.step.ts:18"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 34978099
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "And ",
-            "line": 12,
-            "name": "The User Clicks on Continue Button",
-            "match": {
-              "location": "src\\test\\stepDefinitions\\register.step.ts:22"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 1212711900
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Then ",
-            "line": 13,
-            "name": "The user should be Successfully Registered",
-            "match": {
-              "location": "src\\test\\stepDefinitions\\register.step.ts:26"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 34547500
-            }
-          },
-          {
-            "keyword": "After",
-            "hidden": true,
-            "result": {
-              "status": "passed",
-              "duration": 73592999
-            }
-          }
-        ],
-        "tags": [
-          {
-            "name": "@smoke",
-            "line": 1
-          }
-        ],
-        "type": "scenario"
-      },
-      {
-        "description": "",
-        "id": "registeration-for-tutorials-ninja-website;registering-a-new-user-with-leaving-mandatory-field",
-        "keyword": "Scenario",
-        "line": 15,
-        "name": "Registering a new user with leaving Mandatory Field",
-        "steps": [
-          {
-            "keyword": "Before",
-            "hidden": true,
-            "result": {
-              "status": "passed",
-              "duration": 191229900
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Given ",
-            "line": 5,
-            "name": "The user is on Home Page",
-            "match": {
-              "location": "src\\test\\stepDefinitions\\login.step.ts:8"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 1322488400
+              "duration": 2194186200
             }
           },
           {
             "arguments": [],
             "keyword": "When ",
+            "line": 13,
+            "name": "The User Enter the product name in Search Bar",
+            "match": {
+              "location": "src\\test\\stepDefinitions\\cart.step.ts:5"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 100228199
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "The User Clicks on Search Button",
+            "match": {
+              "location": "src\\test\\stepDefinitions\\cart.step.ts:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 471415800
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 15,
+            "name": "The user Clicks a Product On Search Results",
+            "match": {
+              "location": "src\\test\\stepDefinitions\\cart.step.ts:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 711885400
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
             "line": 16,
-            "name": "The User Clicks on My account link in Homepage",
+            "name": "The user Clicks On Add to cart Button in Product Description",
             "match": {
-              "location": "src\\test\\stepDefinitions\\login.step.ts:13"
+              "location": "src\\test\\stepDefinitions\\cart.step.ts:17"
             },
             "result": {
               "status": "passed",
-              "duration": 43850599
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "And ",
-            "line": 17,
-            "name": "The User clicks Register In Drop Down",
-            "match": {
-              "location": "src\\test\\stepDefinitions\\register.step.ts:10"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 204749099
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "And ",
-            "line": 18,
-            "name": "The User Enters Personal Details and Password by laeving one Mandatory Field",
-            "match": {
-              "location": "src\\test\\stepDefinitions\\register.step.ts:30"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 317523899
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "And ",
-            "line": 19,
-            "name": "The User check the privacy policy Checkbox",
-            "match": {
-              "location": "src\\test\\stepDefinitions\\register.step.ts:18"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 35602199
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "And ",
-            "line": 20,
-            "name": "The User Clicks on Continue Button",
-            "match": {
-              "location": "src\\test\\stepDefinitions\\register.step.ts:22"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 452032900
+              "duration": 733292299
             }
           },
           {
             "arguments": [],
             "keyword": "Then ",
-            "line": 21,
-            "name": "The user should be Displayed With Warning Message",
+            "line": 17,
+            "name": "The User Should see a Success Message Product Added to Cart",
             "match": {
-              "location": "src\\test\\stepDefinitions\\register.step.ts:34"
+              "location": "src\\test\\stepDefinitions\\cart.step.ts:21"
             },
             "result": {
               "status": "passed",
-              "duration": 32954599
+              "duration": 229418600
             }
           },
           {
@@ -236,29 +165,29 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 52177800
+              "duration": 165355599
             }
           }
         ],
         "tags": [
           {
-            "name": "@smoke",
+            "name": "@regression",
             "line": 1
           }
         ],
         "type": "scenario"
       }
     ],
-    "id": "registeration-for-tutorials-ninja-website",
+    "id": "test-cart-functionality-of-tutorials-ninja-ecommerce-application",
     "line": 2,
     "keyword": "Feature",
-    "name": "Registeration For TUtorials Ninja Website",
+    "name": "Test Cart Functionality of Tutorials Ninja Ecommerce Application",
     "tags": [
       {
-        "name": "@smoke",
+        "name": "@regression",
         "line": 1
       }
     ],
-    "uri": "src\\test\\features\\register.feature"
+    "uri": "src\\test\\features\\cart.feature"
   }
 ]

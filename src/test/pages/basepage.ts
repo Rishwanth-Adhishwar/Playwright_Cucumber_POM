@@ -1,7 +1,7 @@
 import { Locator, expect } from '@playwright/test';
 export class BasePage {
     async click(locator: Locator) {
-        await locator.click();
+        await locator.click({ timeout: 10000 });
     }
     async fill(locator: Locator, value: string) {
         await locator.fill(value);

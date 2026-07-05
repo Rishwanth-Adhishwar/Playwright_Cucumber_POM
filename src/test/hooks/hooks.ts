@@ -8,6 +8,8 @@ import { logger } from "../utils/logger";
 import { ENV } from "../utils/envReader";
 import { RegisterPage } from "../pages/registerpage";
 import { AccountSuccessPage } from "../pages/accountSuccesspage";
+import { SearchPage } from "../pages/searchpage";
+import { ProductPage } from "../pages/productpage";
 
 let browser: Browser;
 BeforeAll(async () => {
@@ -29,6 +31,8 @@ Before(async function (this: CustomWorld) {
     this.accountPage = new AccountPage(this.page);
     this.registerPage = new RegisterPage(this.page);
     this.accounSuccessPage = new AccountSuccessPage(this.page);
+    this.searchPage = new SearchPage(this.page);
+    this.productPage = new ProductPage(this.page);
 });
 After(async function (this: CustomWorld, { pickle, result }) {
 
