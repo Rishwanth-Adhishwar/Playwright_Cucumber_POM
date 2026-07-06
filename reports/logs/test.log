@@ -399,3 +399,641 @@
 [2026-07-05T11:53:26.505Z] INFO-Closing Page
 [2026-07-05T11:53:26.573Z] INFO-Closing Context
 [2026-07-05T11:53:26.674Z] INFO-Closing Browser
+[2026-07-06T05:08:09.689Z] INFO-Launching Browser
+[2026-07-06T05:08:10.628Z] INFO-Creating New Context
+[2026-07-06T05:08:10.654Z] INFO-Creating Page
+[2026-07-06T05:08:10.825Z] INFO-Launching URL
+[2026-07-06T05:08:11.727Z] INFO-Clicking My Account Link
+[2026-07-06T05:08:13.573Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:08:15.330Z] INFO-Entering Email
+[2026-07-06T05:08:15.381Z] INFO-Entering Password
+[2026-07-06T05:08:15.405Z] INFO-Clicking Login Button
+[2026-07-06T05:08:16.461Z] INFO-Closing Page
+[2026-07-06T05:08:16.501Z] INFO-Closing Context
+[2026-07-06T05:08:16.543Z] INFO-Creating New Context
+[2026-07-06T05:08:16.556Z] INFO-Creating Page
+[2026-07-06T05:08:16.841Z] INFO-Launching URL
+[2026-07-06T05:08:17.628Z] INFO-Clicking My Account Link
+[2026-07-06T05:08:17.691Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:08:17.872Z] INFO-Entering Email
+[2026-07-06T05:08:17.901Z] INFO-Entering Password
+[2026-07-06T05:08:17.917Z] INFO-Clicking Login Button
+[2026-07-06T05:08:19.307Z] INFO-Closing Page
+[2026-07-06T05:08:19.336Z] INFO-Closing Context
+[2026-07-06T05:08:19.387Z] INFO-Creating New Context
+[2026-07-06T05:08:19.400Z] INFO-Creating Page
+[2026-07-06T05:08:19.535Z] INFO-Launching URL
+[2026-07-06T05:08:20.425Z] INFO-Clicking My Account Link
+[2026-07-06T05:08:20.476Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:08:21.119Z] INFO-Entering Email
+[2026-07-06T05:08:21.151Z] INFO-Entering Password
+[2026-07-06T05:08:21.176Z] INFO-Clicking Login Button
+[2026-07-06T05:08:22.036Z] INFO-Closing Page
+[2026-07-06T05:08:22.058Z] INFO-Closing Context
+[2026-07-06T05:08:22.093Z] INFO-Closing Browser
+[2026-07-06T05:09:56.378Z] INFO-Launching Browser
+[2026-07-06T05:09:56.752Z] INFO-Creating New Context
+[2026-07-06T05:09:56.769Z] INFO-Creating Page
+[2026-07-06T05:09:56.921Z] INFO-Launching URL
+[2026-07-06T05:09:57.737Z] INFO-Clicking My Account Link
+[2026-07-06T05:09:59.402Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:10:01.334Z] INFO-Entering Email
+[2026-07-06T05:10:01.381Z] INFO-Entering Password
+[2026-07-06T05:10:01.410Z] INFO-Clicking Login Button
+[2026-07-06T05:10:06.174Z] INFO-Closing Page
+[2026-07-06T05:10:06.189Z] INFO-Closing Context
+[2026-07-06T05:10:06.238Z] INFO-Creating New Context
+[2026-07-06T05:10:06.252Z] INFO-Creating Page
+[2026-07-06T05:10:06.428Z] INFO-Launching URL
+[2026-07-06T05:10:07.286Z] INFO-Clicking My Account Link
+[2026-07-06T05:10:07.354Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:10:07.626Z] INFO-Entering Email
+[2026-07-06T05:10:07.659Z] INFO-Entering Password
+[2026-07-06T05:10:07.680Z] INFO-Clicking Login Button
+[2026-07-06T05:10:10.266Z] INFO-Closing Page
+[2026-07-06T05:10:10.278Z] INFO-Closing Context
+[2026-07-06T05:10:10.319Z] INFO-Creating New Context
+[2026-07-06T05:10:10.330Z] INFO-Creating Page
+[2026-07-06T05:10:10.497Z] INFO-Launching URL
+[2026-07-06T05:10:11.394Z] INFO-Clicking My Account Link
+[2026-07-06T05:10:11.464Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:10:11.702Z] INFO-Entering Email
+[2026-07-06T05:10:11.805Z] INFO-Entering Password
+[2026-07-06T05:10:11.820Z] INFO-Clicking Login Button
+[2026-07-06T05:10:20.115Z] INFO-Closing Page
+[2026-07-06T05:10:20.124Z] INFO-Closing Context
+[2026-07-06T05:10:20.157Z] INFO-Closing Browser
+[2026-07-06T05:10:28.742Z] INFO-Launching Browser
+[2026-07-06T05:10:29.060Z] INFO-Creating New Context
+[2026-07-06T05:10:29.081Z] INFO-Creating Page
+[2026-07-06T05:10:29.224Z] INFO-Launching URL
+[2026-07-06T05:10:30.026Z] INFO-Clicking My Account Link
+[2026-07-06T05:10:31.433Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:10:32.985Z] INFO-Entering Email
+[2026-07-06T05:10:33.046Z] INFO-Entering Password
+[2026-07-06T05:10:33.075Z] INFO-Clicking Login Button
+[2026-07-06T05:10:38.534Z] INFO-Closing Page
+[2026-07-06T05:10:38.550Z] INFO-Closing Context
+[2026-07-06T05:10:38.599Z] INFO-Creating New Context
+[2026-07-06T05:10:38.612Z] INFO-Creating Page
+[2026-07-06T05:10:38.817Z] INFO-Launching URL
+[2026-07-06T05:10:39.902Z] INFO-Clicking My Account Link
+[2026-07-06T05:10:39.967Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:10:40.260Z] INFO-Entering Email
+[2026-07-06T05:10:40.291Z] INFO-Entering Password
+[2026-07-06T05:10:40.308Z] INFO-Clicking Login Button
+[2026-07-06T05:10:41.738Z] INFO-Closing Page
+[2026-07-06T05:10:41.748Z] INFO-Closing Context
+[2026-07-06T05:10:41.813Z] INFO-Creating New Context
+[2026-07-06T05:10:41.830Z] INFO-Creating Page
+[2026-07-06T05:10:41.999Z] INFO-Launching URL
+[2026-07-06T05:10:43.213Z] INFO-Clicking My Account Link
+[2026-07-06T05:10:43.282Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:10:43.487Z] INFO-Entering Email
+[2026-07-06T05:10:43.522Z] INFO-Entering Password
+[2026-07-06T05:10:43.545Z] INFO-Clicking Login Button
+[2026-07-06T05:10:50.537Z] INFO-Closing Page
+[2026-07-06T05:10:50.548Z] INFO-Closing Context
+[2026-07-06T05:10:50.587Z] INFO-Closing Browser
+[2026-07-06T05:11:16.314Z] INFO-Launching Browser
+[2026-07-06T05:11:16.585Z] INFO-Creating New Context
+[2026-07-06T05:11:16.612Z] INFO-Creating Page
+[2026-07-06T05:11:16.747Z] INFO-Launching URL
+[2026-07-06T05:11:17.601Z] INFO-Clicking My Account Link
+[2026-07-06T05:11:18.992Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:11:20.358Z] INFO-Entering Email
+[2026-07-06T05:11:20.403Z] INFO-Entering Password
+[2026-07-06T05:11:20.429Z] INFO-Clicking Login Button
+[2026-07-06T05:11:24.556Z] INFO-Closing Page
+[2026-07-06T05:11:24.573Z] INFO-Closing Context
+[2026-07-06T05:11:24.610Z] INFO-Creating New Context
+[2026-07-06T05:11:24.628Z] INFO-Creating Page
+[2026-07-06T05:11:24.818Z] INFO-Launching URL
+[2026-07-06T05:11:25.852Z] INFO-Clicking My Account Link
+[2026-07-06T05:11:25.913Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:11:26.147Z] INFO-Entering Email
+[2026-07-06T05:11:26.174Z] INFO-Entering Password
+[2026-07-06T05:11:26.191Z] INFO-Clicking Login Button
+[2026-07-06T05:11:27.966Z] INFO-Closing Page
+[2026-07-06T05:11:27.976Z] INFO-Closing Context
+[2026-07-06T05:11:28.026Z] INFO-Creating New Context
+[2026-07-06T05:11:28.038Z] INFO-Creating Page
+[2026-07-06T05:11:28.183Z] INFO-Launching URL
+[2026-07-06T05:11:29.069Z] INFO-Clicking My Account Link
+[2026-07-06T05:11:29.136Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:11:29.436Z] INFO-Entering Email
+[2026-07-06T05:11:29.467Z] INFO-Entering Password
+[2026-07-06T05:11:29.485Z] INFO-Clicking Login Button
+[2026-07-06T05:11:37.435Z] INFO-Closing Page
+[2026-07-06T05:11:37.450Z] INFO-Closing Context
+[2026-07-06T05:11:37.495Z] INFO-Closing Browser
+[2026-07-06T05:12:05.724Z] INFO-Launching Browser
+[2026-07-06T05:12:06.025Z] INFO-Creating New Context
+[2026-07-06T05:12:06.048Z] INFO-Creating Page
+[2026-07-06T05:12:06.190Z] INFO-Launching URL
+[2026-07-06T05:12:07.280Z] INFO-Clicking My Account Link
+[2026-07-06T05:12:08.291Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:12:09.376Z] INFO-Entering Email
+[2026-07-06T05:12:09.411Z] INFO-Entering Password
+[2026-07-06T05:12:09.423Z] INFO-Clicking Login Button
+[2026-07-06T05:12:12.168Z] INFO-Closing Page
+[2026-07-06T05:12:12.179Z] INFO-Closing Context
+[2026-07-06T05:12:12.221Z] INFO-Creating New Context
+[2026-07-06T05:12:12.232Z] INFO-Creating Page
+[2026-07-06T05:12:12.462Z] INFO-Launching URL
+[2026-07-06T05:12:13.351Z] INFO-Clicking My Account Link
+[2026-07-06T05:12:13.419Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:12:13.603Z] INFO-Entering Email
+[2026-07-06T05:12:13.634Z] INFO-Entering Password
+[2026-07-06T05:12:13.652Z] INFO-Clicking Login Button
+[2026-07-06T05:12:15.032Z] INFO-Closing Page
+[2026-07-06T05:12:15.043Z] INFO-Closing Context
+[2026-07-06T05:12:15.090Z] INFO-Creating New Context
+[2026-07-06T05:12:15.101Z] INFO-Creating Page
+[2026-07-06T05:12:15.240Z] INFO-Launching URL
+[2026-07-06T05:12:16.038Z] INFO-Clicking My Account Link
+[2026-07-06T05:12:16.105Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:12:16.264Z] INFO-Entering Email
+[2026-07-06T05:12:16.291Z] INFO-Entering Password
+[2026-07-06T05:12:16.310Z] INFO-Clicking Login Button
+[2026-07-06T05:12:17.894Z] INFO-Closing Page
+[2026-07-06T05:12:17.903Z] INFO-Closing Context
+[2026-07-06T05:12:17.942Z] INFO-Closing Browser
+[2026-07-06T05:12:57.310Z] INFO-Launching Browser
+[2026-07-06T05:12:57.565Z] INFO-Creating New Context
+[2026-07-06T05:12:57.590Z] INFO-Creating Page
+[2026-07-06T05:12:57.733Z] INFO-Launching URL
+[2026-07-06T05:12:58.604Z] INFO-Clicking My Account Link
+[2026-07-06T05:12:59.723Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:13:00.992Z] INFO-Entering Email
+[2026-07-06T05:13:01.045Z] INFO-Entering Password
+[2026-07-06T05:13:01.060Z] INFO-Clicking Login Button
+[2026-07-06T05:13:04.488Z] INFO-Closing Page
+[2026-07-06T05:13:04.501Z] INFO-Closing Context
+[2026-07-06T05:13:04.541Z] INFO-Creating New Context
+[2026-07-06T05:13:04.552Z] INFO-Creating Page
+[2026-07-06T05:13:04.720Z] INFO-Launching URL
+[2026-07-06T05:13:05.593Z] INFO-Clicking My Account Link
+[2026-07-06T05:13:05.659Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:13:05.858Z] INFO-Entering Email
+[2026-07-06T05:13:05.888Z] INFO-Entering Password
+[2026-07-06T05:13:05.905Z] INFO-Clicking Login Button
+[2026-07-06T05:13:08.335Z] INFO-Closing Page
+[2026-07-06T05:13:08.346Z] INFO-Closing Context
+[2026-07-06T05:13:08.381Z] INFO-Creating New Context
+[2026-07-06T05:13:08.395Z] INFO-Creating Page
+[2026-07-06T05:13:08.539Z] INFO-Launching URL
+[2026-07-06T05:13:09.326Z] INFO-Clicking My Account Link
+[2026-07-06T05:13:09.391Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:13:09.866Z] INFO-Entering Email
+[2026-07-06T05:13:09.900Z] INFO-Entering Password
+[2026-07-06T05:13:09.917Z] INFO-Clicking Login Button
+[2026-07-06T05:13:17.124Z] INFO-Closing Page
+[2026-07-06T05:13:17.136Z] INFO-Closing Context
+[2026-07-06T05:13:17.174Z] INFO-Closing Browser
+[2026-07-06T05:16:34.707Z] INFO-Launching Browser
+[2026-07-06T05:16:35.021Z] INFO-Creating New Context
+[2026-07-06T05:16:35.040Z] INFO-Creating Page
+[2026-07-06T05:16:35.207Z] INFO-Launching URL
+[2026-07-06T05:16:37.721Z] INFO-Clicking My Account Link
+[2026-07-06T05:16:38.586Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:16:38.829Z] INFO-Entering Email
+[2026-07-06T05:16:38.874Z] INFO-Entering Password
+[2026-07-06T05:16:38.901Z] INFO-Clicking Login Button
+[2026-07-06T05:16:42.268Z] INFO-Closing Page
+[2026-07-06T05:16:42.287Z] INFO-Closing Context
+[2026-07-06T05:16:42.338Z] INFO-Creating New Context
+[2026-07-06T05:16:42.350Z] INFO-Creating Page
+[2026-07-06T05:16:42.619Z] INFO-Launching URL
+[2026-07-06T05:16:43.480Z] INFO-Clicking My Account Link
+[2026-07-06T05:16:43.546Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:16:43.723Z] INFO-Entering Email
+[2026-07-06T05:16:43.748Z] INFO-Entering Password
+[2026-07-06T05:16:43.770Z] INFO-Clicking Login Button
+[2026-07-06T05:16:45.194Z] INFO-Closing Page
+[2026-07-06T05:16:45.204Z] INFO-Closing Context
+[2026-07-06T05:16:45.237Z] INFO-Creating New Context
+[2026-07-06T05:16:45.249Z] INFO-Creating Page
+[2026-07-06T05:16:45.381Z] INFO-Launching URL
+[2026-07-06T05:16:46.121Z] INFO-Clicking My Account Link
+[2026-07-06T05:16:46.181Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:16:46.344Z] INFO-Entering Email
+[2026-07-06T05:16:46.368Z] INFO-Entering Password
+[2026-07-06T05:16:46.394Z] INFO-Clicking Login Button
+[2026-07-06T05:16:52.828Z] INFO-Closing Page
+[2026-07-06T05:16:52.836Z] INFO-Closing Context
+[2026-07-06T05:16:52.872Z] INFO-Closing Browser
+[2026-07-06T05:19:53.782Z] INFO-Launching Browser
+[2026-07-06T05:19:54.283Z] INFO-Creating New Context
+[2026-07-06T05:19:54.302Z] INFO-Creating Page
+[2026-07-06T05:19:54.518Z] INFO-Launching URL
+[2026-07-06T05:19:55.245Z] INFO-Clicking My Account Link
+[2026-07-06T05:19:56.597Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:19:58.088Z] INFO-Entering Email
+[2026-07-06T05:19:58.139Z] INFO-Entering Password
+[2026-07-06T05:19:58.164Z] INFO-Clicking Login Button
+[2026-07-06T05:20:00.078Z] INFO-Closing Page
+[2026-07-06T05:20:00.096Z] INFO-Closing Context
+[2026-07-06T05:20:00.133Z] INFO-Creating New Context
+[2026-07-06T05:20:00.153Z] INFO-Creating Page
+[2026-07-06T05:20:00.338Z] INFO-Launching URL
+[2026-07-06T05:20:01.625Z] INFO-Clicking My Account Link
+[2026-07-06T05:20:01.677Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:20:02.044Z] INFO-Entering Email
+[2026-07-06T05:20:02.075Z] INFO-Entering Password
+[2026-07-06T05:20:02.094Z] INFO-Clicking Login Button
+[2026-07-06T05:20:06.238Z] INFO-Closing Page
+[2026-07-06T05:20:06.246Z] INFO-Closing Context
+[2026-07-06T05:20:06.279Z] INFO-Creating New Context
+[2026-07-06T05:20:06.293Z] INFO-Creating Page
+[2026-07-06T05:20:06.435Z] INFO-Launching URL
+[2026-07-06T05:20:07.393Z] INFO-Clicking My Account Link
+[2026-07-06T05:20:07.467Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:20:07.741Z] INFO-Entering Email
+[2026-07-06T05:20:07.771Z] INFO-Entering Password
+[2026-07-06T05:20:07.795Z] INFO-Clicking Login Button
+[2026-07-06T05:20:10.994Z] INFO-Closing Page
+[2026-07-06T05:20:11.004Z] INFO-Closing Context
+[2026-07-06T05:20:11.042Z] INFO-Closing Browser
+[2026-07-06T05:20:44.964Z] INFO-Launching Browser
+[2026-07-06T05:20:45.278Z] INFO-Creating New Context
+[2026-07-06T05:20:45.299Z] INFO-Creating Page
+[2026-07-06T05:20:45.441Z] INFO-Launching URL
+[2026-07-06T05:20:46.733Z] INFO-Clicking My Account Link
+[2026-07-06T05:20:47.647Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:20:48.915Z] INFO-Entering Email
+[2026-07-06T05:20:48.970Z] INFO-Entering Password
+[2026-07-06T05:20:48.997Z] INFO-Clicking Login Button
+[2026-07-06T05:20:50.987Z] INFO-Closing Page
+[2026-07-06T05:20:51.004Z] INFO-Closing Context
+[2026-07-06T05:20:51.059Z] INFO-Creating New Context
+[2026-07-06T05:20:51.075Z] INFO-Creating Page
+[2026-07-06T05:20:51.250Z] INFO-Launching URL
+[2026-07-06T05:20:53.433Z] INFO-Clicking My Account Link
+[2026-07-06T05:20:53.527Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:20:53.718Z] INFO-Entering Email
+[2026-07-06T05:20:53.752Z] INFO-Entering Password
+[2026-07-06T05:20:53.775Z] INFO-Clicking Login Button
+[2026-07-06T05:20:55.327Z] INFO-Closing Page
+[2026-07-06T05:20:55.338Z] INFO-Closing Context
+[2026-07-06T05:20:55.372Z] INFO-Creating New Context
+[2026-07-06T05:20:55.383Z] INFO-Creating Page
+[2026-07-06T05:20:55.522Z] INFO-Launching URL
+[2026-07-06T05:20:57.125Z] INFO-Clicking My Account Link
+[2026-07-06T05:20:57.194Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:20:57.390Z] INFO-Entering Email
+[2026-07-06T05:20:57.420Z] INFO-Entering Password
+[2026-07-06T05:20:57.433Z] INFO-Clicking Login Button
+[2026-07-06T05:21:04.164Z] INFO-Closing Page
+[2026-07-06T05:21:04.175Z] INFO-Closing Context
+[2026-07-06T05:21:04.203Z] INFO-Closing Browser
+[2026-07-06T05:21:18.580Z] INFO-Launching Browser
+[2026-07-06T05:21:18.882Z] INFO-Creating New Context
+[2026-07-06T05:21:18.901Z] INFO-Creating Page
+[2026-07-06T05:21:19.047Z] INFO-Launching URL
+[2026-07-06T05:21:20.221Z] INFO-Clicking My Account Link
+[2026-07-06T05:21:21.236Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:21:22.634Z] INFO-Entering Email
+[2026-07-06T05:21:22.692Z] INFO-Entering Password
+[2026-07-06T05:21:22.717Z] INFO-Clicking Login Button
+[2026-07-06T05:21:25.112Z] INFO-Closing Page
+[2026-07-06T05:21:25.131Z] INFO-Closing Context
+[2026-07-06T05:21:25.164Z] INFO-Creating New Context
+[2026-07-06T05:21:25.180Z] INFO-Creating Page
+[2026-07-06T05:21:25.363Z] INFO-Launching URL
+[2026-07-06T05:21:26.567Z] INFO-Clicking My Account Link
+[2026-07-06T05:21:26.628Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T05:21:26.870Z] INFO-Entering Email
+[2026-07-06T05:21:26.900Z] INFO-Entering Password
+[2026-07-06T05:21:26.917Z] INFO-Clicking Login Button
+[2026-07-06T05:21:28.806Z] INFO-Closing Page
+[2026-07-06T05:21:28.816Z] INFO-Closing Context
+[2026-07-06T05:21:28.863Z] INFO-Closing Browser
+[2026-07-06T05:54:57.217Z] INFO-Launching Browser
+[2026-07-06T05:54:57.666Z] INFO-Creating New Context
+[2026-07-06T05:54:57.682Z] INFO-Creating Page
+[2026-07-06T05:54:57.869Z] INFO-Launching URL
+[2026-07-06T05:55:00.492Z] INFO-Closing Page
+[2026-07-06T05:55:00.506Z] INFO-Closing Context
+[2026-07-06T05:55:00.550Z] INFO-Closing Browser
+[2026-07-06T06:30:46.591Z] INFO-Launching Browser
+[2026-07-06T06:30:47.036Z] INFO-Creating New Context
+[2026-07-06T06:30:47.062Z] INFO-Creating Page
+[2026-07-06T06:30:47.216Z] INFO-Launching URL
+[2026-07-06T06:30:49.003Z] INFO-Clicking My Account Link
+[2026-07-06T06:30:50.348Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T06:30:52.601Z] INFO-Entering Email
+[2026-07-06T06:30:52.663Z] INFO-Entering Password
+[2026-07-06T06:30:52.692Z] INFO-Clicking Login Button
+[2026-07-06T06:30:54.741Z] INFO-Closing Page
+[2026-07-06T06:30:54.762Z] INFO-Closing Context
+[2026-07-06T06:30:54.810Z] INFO-Closing Browser
+[2026-07-06T06:33:26.040Z] INFO-Launching Browser
+[2026-07-06T06:33:26.385Z] INFO-Creating New Context
+[2026-07-06T06:33:26.408Z] INFO-Creating Page
+[2026-07-06T06:33:26.586Z] INFO-Launching URL
+[2026-07-06T06:33:28.420Z] INFO-Clicking My Account Link
+[2026-07-06T06:33:28.877Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T06:33:30.256Z] INFO-Entering Email
+[2026-07-06T06:33:30.328Z] INFO-Entering Password
+[2026-07-06T06:33:30.361Z] INFO-Clicking Login Button
+[2026-07-06T06:33:32.395Z] INFO-Closing Page
+[2026-07-06T06:33:32.419Z] INFO-Closing Context
+[2026-07-06T06:33:32.452Z] INFO-Closing Browser
+[2026-07-06T06:35:06.921Z] INFO-Launching Browser
+[2026-07-06T06:35:07.265Z] INFO-Creating New Context
+[2026-07-06T06:35:07.292Z] INFO-Creating Page
+[2026-07-06T06:35:07.457Z] INFO-Launching URL
+[2026-07-06T06:35:10.267Z] INFO-Clicking My Account Link
+[2026-07-06T06:35:10.541Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T06:35:11.419Z] INFO-Entering Email
+[2026-07-06T06:35:11.460Z] INFO-Entering Password
+[2026-07-06T06:35:11.494Z] INFO-Clicking Login Button
+[2026-07-06T06:35:16.681Z] INFO-Closing Page
+[2026-07-06T06:35:16.703Z] INFO-Closing Context
+[2026-07-06T06:35:16.738Z] INFO-Closing Browser
+[2026-07-06T06:35:32.338Z] INFO-Launching Browser
+[2026-07-06T06:35:32.656Z] INFO-Creating New Context
+[2026-07-06T06:35:32.682Z] INFO-Creating Page
+[2026-07-06T06:35:32.839Z] INFO-Launching URL
+[2026-07-06T06:35:34.765Z] INFO-Clicking My Account Link
+[2026-07-06T06:35:35.065Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T06:35:36.395Z] INFO-Entering Email
+[2026-07-06T06:35:36.473Z] INFO-Entering Password
+[2026-07-06T06:35:36.504Z] INFO-Clicking Login Button
+[2026-07-06T06:35:39.651Z] INFO-Closing Page
+[2026-07-06T06:35:39.679Z] INFO-Closing Context
+[2026-07-06T06:35:39.735Z] INFO-Closing Browser
+[2026-07-06T06:36:35.149Z] INFO-Launching Browser
+[2026-07-06T06:36:35.461Z] INFO-Creating New Context
+[2026-07-06T06:36:35.484Z] INFO-Creating Page
+[2026-07-06T06:36:35.632Z] INFO-Launching URL
+[2026-07-06T06:36:37.363Z] INFO-Clicking My Account Link
+[2026-07-06T06:36:37.875Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T06:36:39.410Z] INFO-Entering Email
+[2026-07-06T06:36:39.477Z] INFO-Entering Password
+[2026-07-06T06:36:39.504Z] INFO-Clicking Login Button
+[2026-07-06T06:36:42.914Z] INFO-Closing Page
+[2026-07-06T06:36:42.942Z] INFO-Closing Context
+[2026-07-06T06:36:42.997Z] INFO-Closing Browser
+[2026-07-06T06:37:12.393Z] INFO-Launching Browser
+[2026-07-06T06:37:12.690Z] INFO-Creating New Context
+[2026-07-06T06:37:12.713Z] INFO-Creating Page
+[2026-07-06T06:37:12.868Z] INFO-Launching URL
+[2026-07-06T06:37:18.401Z] INFO-Closing Page
+[2026-07-06T06:37:18.418Z] INFO-Closing Context
+[2026-07-06T06:37:18.452Z] INFO-Closing Browser
+[2026-07-06T06:37:27.935Z] INFO-Launching Browser
+[2026-07-06T06:37:28.191Z] INFO-Creating New Context
+[2026-07-06T06:37:28.215Z] INFO-Creating Page
+[2026-07-06T06:37:28.371Z] INFO-Launching URL
+[2026-07-06T06:37:34.406Z] INFO-Closing Page
+[2026-07-06T06:37:34.420Z] INFO-Closing Context
+[2026-07-06T06:37:34.454Z] INFO-Closing Browser
+[2026-07-06T06:37:39.222Z] INFO-Launching Browser
+[2026-07-06T06:37:39.484Z] INFO-Creating New Context
+[2026-07-06T06:37:39.509Z] INFO-Creating Page
+[2026-07-06T06:37:39.647Z] INFO-Launching URL
+[2026-07-06T06:37:49.679Z] INFO-Closing Browser
+[2026-07-06T06:38:06.391Z] INFO-Launching Browser
+[2026-07-06T06:38:06.642Z] INFO-Creating New Context
+[2026-07-06T06:38:06.661Z] INFO-Creating Page
+[2026-07-06T06:38:06.812Z] INFO-Launching URL
+[2026-07-06T06:38:12.601Z] INFO-Closing Page
+[2026-07-06T06:38:12.618Z] INFO-Closing Context
+[2026-07-06T06:38:12.658Z] INFO-Closing Browser
+[2026-07-06T06:39:46.991Z] INFO-Launching Browser
+[2026-07-06T06:39:47.351Z] INFO-Creating New Context
+[2026-07-06T06:39:47.373Z] INFO-Creating Page
+[2026-07-06T06:39:47.530Z] INFO-Launching URL
+[2026-07-06T06:39:49.372Z] INFO-Clicking My Account Link
+[2026-07-06T06:39:50.128Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T06:39:51.778Z] INFO-Entering Email
+[2026-07-06T06:39:51.838Z] INFO-Entering Password
+[2026-07-06T06:39:51.869Z] INFO-Clicking Login Button
+[2026-07-06T06:39:55.151Z] INFO-Closing Page
+[2026-07-06T06:39:55.168Z] INFO-Closing Context
+[2026-07-06T06:39:55.215Z] INFO-Closing Browser
+[2026-07-06T06:43:25.031Z] INFO-Launching Browser
+[2026-07-06T06:43:25.379Z] INFO-Creating New Context
+[2026-07-06T06:43:25.405Z] INFO-Creating Page
+[2026-07-06T06:43:25.739Z] INFO-Launching URL
+[2026-07-06T06:43:27.674Z] INFO-Clicking My Account Link
+[2026-07-06T06:43:27.887Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T06:43:29.399Z] INFO-Entering Email
+[2026-07-06T06:43:29.466Z] INFO-Entering Password
+[2026-07-06T06:43:29.499Z] INFO-Clicking Login Button
+[2026-07-06T06:43:36.461Z] INFO-Closing Page
+[2026-07-06T06:43:36.489Z] INFO-Closing Context
+[2026-07-06T06:43:36.534Z] INFO-Closing Browser
+[2026-07-06T06:43:53.260Z] INFO-Launching Browser
+[2026-07-06T06:43:53.668Z] INFO-Creating New Context
+[2026-07-06T06:43:53.706Z] INFO-Creating Page
+[2026-07-06T06:43:53.931Z] INFO-Launching URL
+[2026-07-06T06:43:55.704Z] INFO-Clicking My Account Link
+[2026-07-06T06:43:56.915Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T06:43:57.825Z] INFO-Entering Email
+[2026-07-06T06:43:57.876Z] INFO-Entering Password
+[2026-07-06T06:43:57.898Z] INFO-Clicking Login Button
+[2026-07-06T06:44:07.210Z] INFO-Closing Page
+[2026-07-06T06:44:07.247Z] INFO-Closing Context
+[2026-07-06T06:44:07.309Z] INFO-Closing Browser
+[2026-07-06T06:45:07.716Z] INFO-Launching Browser
+[2026-07-06T06:45:08.045Z] INFO-Creating New Context
+[2026-07-06T06:45:08.067Z] INFO-Creating Page
+[2026-07-06T06:45:08.326Z] INFO-Launching URL
+[2026-07-06T06:45:14.385Z] INFO-Closing Page
+[2026-07-06T06:45:14.404Z] INFO-Closing Context
+[2026-07-06T06:45:14.437Z] INFO-Closing Browser
+[2026-07-06T06:46:18.693Z] INFO-Launching Browser
+[2026-07-06T06:46:19.035Z] INFO-Creating New Context
+[2026-07-06T06:46:19.086Z] INFO-Creating Page
+[2026-07-06T06:46:19.251Z] INFO-Launching URL
+[2026-07-06T06:46:21.910Z] INFO-Clicking My Account Link
+[2026-07-06T06:46:22.614Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T06:46:22.809Z] INFO-Entering Email
+[2026-07-06T06:46:22.852Z] INFO-Entering Password
+[2026-07-06T06:46:22.881Z] INFO-Clicking Login Button
+[2026-07-06T06:46:30.752Z] INFO-Closing Page
+[2026-07-06T06:46:30.777Z] INFO-Closing Context
+[2026-07-06T06:46:30.833Z] INFO-Closing Browser
+[2026-07-06T06:46:42.219Z] INFO-Launching Browser
+[2026-07-06T06:46:42.538Z] INFO-Creating New Context
+[2026-07-06T06:46:42.559Z] INFO-Creating Page
+[2026-07-06T06:46:42.703Z] INFO-Launching URL
+[2026-07-06T06:46:47.299Z] INFO-Clicking My Account Link
+[2026-07-06T06:46:47.370Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T06:46:47.860Z] INFO-Entering Email
+[2026-07-06T06:46:47.891Z] INFO-Entering Password
+[2026-07-06T06:46:47.903Z] INFO-Clicking Login Button
+[2026-07-06T06:46:57.854Z] INFO-Closing Page
+[2026-07-06T06:46:57.875Z] INFO-Closing Context
+[2026-07-06T06:46:57.908Z] INFO-Closing Browser
+[2026-07-06T06:47:37.543Z] INFO-Launching Browser
+[2026-07-06T06:47:37.846Z] INFO-Creating New Context
+[2026-07-06T06:47:37.869Z] INFO-Creating Page
+[2026-07-06T06:47:38.032Z] INFO-Launching URL
+[2026-07-06T06:47:44.364Z] INFO-Closing Page
+[2026-07-06T06:47:44.382Z] INFO-Closing Context
+[2026-07-06T06:47:44.437Z] INFO-Closing Browser
+[2026-07-06T06:48:03.137Z] INFO-Launching Browser
+[2026-07-06T06:48:03.456Z] INFO-Creating New Context
+[2026-07-06T06:48:03.481Z] INFO-Creating Page
+[2026-07-06T06:48:03.627Z] INFO-Launching URL
+[2026-07-06T06:48:08.039Z] INFO-Clicking My Account Link
+[2026-07-06T06:48:08.104Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T06:48:08.486Z] INFO-Entering Email
+[2026-07-06T06:48:08.518Z] INFO-Entering Password
+[2026-07-06T06:48:08.532Z] INFO-Clicking Login Button
+[2026-07-06T06:48:16.865Z] INFO-Closing Page
+[2026-07-06T06:48:16.890Z] INFO-Closing Context
+[2026-07-06T06:48:16.942Z] INFO-Closing Browser
+[2026-07-06T06:49:38.397Z] INFO-Launching Browser
+[2026-07-06T06:49:38.737Z] INFO-Creating New Context
+[2026-07-06T06:49:38.763Z] INFO-Creating Page
+[2026-07-06T06:49:38.919Z] INFO-Launching URL
+[2026-07-06T06:49:41.185Z] INFO-Clicking My Account Link
+[2026-07-06T06:49:41.550Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T06:49:42.905Z] INFO-Entering Email
+[2026-07-06T06:49:42.944Z] INFO-Entering Password
+[2026-07-06T06:49:42.976Z] INFO-Clicking Login Button
+[2026-07-06T06:49:50.404Z] INFO-Closing Page
+[2026-07-06T06:49:50.421Z] INFO-Closing Context
+[2026-07-06T06:49:50.465Z] INFO-Closing Browser
+[2026-07-06T06:52:36.142Z] INFO-Launching Browser
+[2026-07-06T06:52:36.628Z] INFO-Creating New Context
+[2026-07-06T06:52:36.651Z] INFO-Creating Page
+[2026-07-06T06:52:36.843Z] INFO-Launching URL
+[2026-07-06T06:52:40.187Z] INFO-Clicking My Account Link
+[2026-07-06T06:52:41.850Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T06:52:42.110Z] INFO-Entering Email
+[2026-07-06T06:52:42.156Z] INFO-Entering Password
+[2026-07-06T06:52:42.183Z] INFO-Clicking Login Button
+[2026-07-06T06:52:49.426Z] INFO-Closing Page
+[2026-07-06T06:52:49.450Z] INFO-Closing Context
+[2026-07-06T06:52:49.493Z] INFO-Closing Browser
+[2026-07-06T06:55:20.246Z] INFO-Launching Browser
+[2026-07-06T06:55:20.575Z] INFO-Creating New Context
+[2026-07-06T06:55:20.599Z] INFO-Creating Page
+[2026-07-06T06:55:20.759Z] INFO-Launching URL
+[2026-07-06T06:55:22.773Z] INFO-Clicking My Account Link
+[2026-07-06T06:55:23.090Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T06:55:24.384Z] INFO-Entering Email
+[2026-07-06T06:55:24.443Z] INFO-Entering Password
+[2026-07-06T06:55:24.471Z] INFO-Clicking Login Button
+[2026-07-06T06:55:26.851Z] INFO-Closing Page
+[2026-07-06T06:55:26.877Z] INFO-Closing Context
+[2026-07-06T06:55:26.933Z] INFO-Closing Browser
+[2026-07-06T06:57:12.823Z] INFO-Launching Browser
+[2026-07-06T06:57:13.158Z] INFO-Creating New Context
+[2026-07-06T06:57:13.180Z] INFO-Creating Page
+[2026-07-06T06:57:13.334Z] INFO-Launching URL
+[2026-07-06T06:57:15.055Z] INFO-Clicking My Account Link
+[2026-07-06T06:57:15.619Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T06:57:16.810Z] INFO-Entering Email
+[2026-07-06T06:57:16.866Z] INFO-Entering Password
+[2026-07-06T06:57:16.897Z] INFO-Clicking Login Button
+[2026-07-06T06:57:18.958Z] INFO-Closing Page
+[2026-07-06T06:57:18.986Z] INFO-Closing Context
+[2026-07-06T06:57:19.060Z] INFO-Closing Browser
+[2026-07-06T06:58:47.654Z] INFO-Launching Browser
+[2026-07-06T06:58:47.978Z] INFO-Creating New Context
+[2026-07-06T06:58:48.001Z] INFO-Creating Page
+[2026-07-06T06:58:48.159Z] INFO-Launching URL
+[2026-07-06T06:58:49.989Z] INFO-Clicking My Account Link
+[2026-07-06T06:58:50.441Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T06:58:51.546Z] INFO-Entering Email
+[2026-07-06T06:58:51.596Z] INFO-Entering Password
+[2026-07-06T06:58:51.624Z] INFO-Clicking Login Button
+[2026-07-06T06:58:53.561Z] INFO-Closing Page
+[2026-07-06T06:58:53.585Z] INFO-Closing Context
+[2026-07-06T06:58:53.644Z] INFO-Closing Browser
+[2026-07-06T06:59:44.394Z] INFO-Launching Browser
+[2026-07-06T06:59:44.833Z] INFO-Creating New Context
+[2026-07-06T06:59:44.855Z] INFO-Creating Page
+[2026-07-06T06:59:45.049Z] INFO-Launching URL
+[2026-07-06T06:59:47.181Z] INFO-Clicking My Account Link
+[2026-07-06T06:59:47.640Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T06:59:49.192Z] INFO-Entering Email
+[2026-07-06T06:59:49.233Z] INFO-Entering Password
+[2026-07-06T06:59:49.261Z] INFO-Clicking Login Button
+[2026-07-06T06:59:52.332Z] INFO-Closing Page
+[2026-07-06T06:59:52.358Z] INFO-Closing Context
+[2026-07-06T06:59:52.416Z] INFO-Closing Browser
+[2026-07-06T07:01:31.621Z] INFO-Launching Browser
+[2026-07-06T07:01:31.979Z] INFO-Creating New Context
+[2026-07-06T07:01:31.999Z] INFO-Creating Page
+[2026-07-06T07:01:32.179Z] INFO-Launching URL
+[2026-07-06T07:01:34.155Z] INFO-Clicking My Account Link
+[2026-07-06T07:01:35.203Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T07:01:37.014Z] INFO-Entering Email
+[2026-07-06T07:01:37.075Z] INFO-Entering Password
+[2026-07-06T07:01:37.103Z] INFO-Clicking Login Button
+[2026-07-06T07:01:44.057Z] INFO-Closing Page
+[2026-07-06T07:01:44.078Z] INFO-Closing Context
+[2026-07-06T07:01:44.121Z] INFO-Closing Browser
+[2026-07-06T07:04:22.729Z] INFO-Launching Browser
+[2026-07-06T07:04:23.154Z] INFO-Creating New Context
+[2026-07-06T07:04:23.209Z] INFO-Creating Page
+[2026-07-06T07:04:23.384Z] INFO-Launching URL
+[2026-07-06T07:04:25.208Z] INFO-Clicking My Account Link
+[2026-07-06T07:04:26.073Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T07:04:28.571Z] INFO-Entering Email
+[2026-07-06T07:04:28.627Z] INFO-Entering Password
+[2026-07-06T07:04:28.660Z] INFO-Clicking Login Button
+[2026-07-06T07:04:35.624Z] INFO-Closing Page
+[2026-07-06T07:04:35.643Z] INFO-Closing Context
+[2026-07-06T07:04:35.683Z] INFO-Closing Browser
+[2026-07-06T07:06:12.986Z] INFO-Launching Browser
+[2026-07-06T07:06:13.319Z] INFO-Creating New Context
+[2026-07-06T07:06:13.346Z] INFO-Creating Page
+[2026-07-06T07:06:13.499Z] INFO-Launching URL
+[2026-07-06T07:06:15.402Z] INFO-Clicking My Account Link
+[2026-07-06T07:06:15.853Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T07:06:17.016Z] INFO-Entering Email
+[2026-07-06T07:06:17.060Z] INFO-Entering Password
+[2026-07-06T07:06:17.085Z] INFO-Clicking Login Button
+[2026-07-06T07:06:24.646Z] INFO-Closing Page
+[2026-07-06T07:06:24.666Z] INFO-Closing Context
+[2026-07-06T07:06:24.715Z] INFO-Closing Browser
+[2026-07-06T07:11:40.306Z] INFO-Launching Browser
+[2026-07-06T07:11:40.714Z] INFO-Creating New Context
+[2026-07-06T07:11:40.739Z] INFO-Creating Page
+[2026-07-06T07:11:40.902Z] INFO-Launching URL
+[2026-07-06T07:11:42.820Z] INFO-Clicking My Account Link
+[2026-07-06T07:11:43.168Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T07:11:44.499Z] INFO-Entering Email
+[2026-07-06T07:11:44.528Z] INFO-Entering Password
+[2026-07-06T07:11:44.542Z] INFO-Clicking Login Button
+[2026-07-06T07:11:52.261Z] INFO-Closing Page
+[2026-07-06T07:11:52.279Z] INFO-Closing Context
+[2026-07-06T07:11:52.308Z] INFO-Closing Browser
+[2026-07-06T07:14:03.630Z] INFO-Launching Browser
+[2026-07-06T07:14:03.990Z] INFO-Creating New Context
+[2026-07-06T07:14:04.019Z] INFO-Creating Page
+[2026-07-06T07:14:04.195Z] INFO-Launching URL
+[2026-07-06T07:14:06.175Z] INFO-Clicking My Account Link
+[2026-07-06T07:14:07.491Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T07:14:07.734Z] INFO-Entering Email
+[2026-07-06T07:14:07.781Z] INFO-Entering Password
+[2026-07-06T07:14:07.808Z] INFO-Clicking Login Button
+[2026-07-06T07:14:10.378Z] INFO-Closing Page
+[2026-07-06T07:14:10.396Z] INFO-Closing Context
+[2026-07-06T07:14:10.431Z] INFO-Closing Browser
+[2026-07-06T07:18:48.996Z] INFO-Launching Browser
+[2026-07-06T07:18:49.364Z] INFO-Creating New Context
+[2026-07-06T07:18:49.389Z] INFO-Creating Page
+[2026-07-06T07:18:49.561Z] INFO-Launching URL
+[2026-07-06T07:18:51.943Z] INFO-Clicking My Account Link
+[2026-07-06T07:18:53.310Z] INFO-Clicking Login Link in Drop Down
+[2026-07-06T07:18:53.565Z] INFO-Entering Email
+[2026-07-06T07:18:53.605Z] INFO-Entering Password
+[2026-07-06T07:18:53.631Z] INFO-Clicking Login Button
+[2026-07-06T07:18:56.022Z] INFO-Closing Page
+[2026-07-06T07:18:56.046Z] INFO-Closing Context
+[2026-07-06T07:18:56.095Z] INFO-Closing Browser
+[2026-07-06T07:19:28.056Z] INFO-Launching Browser
+[2026-07-06T07:19:28.404Z] INFO-Creating New Context
+[2026-07-06T07:19:28.427Z] INFO-Creating Page
+[2026-07-06T07:19:28.593Z] INFO-Launching URL
+[2026-07-06T07:19:38.612Z] INFO-Closing Browser

@@ -1,3 +1,4 @@
+import { AddressBookPage } from "./../pages/addressbookpage";
 import { Browser, BrowserContext, Page } from "@playwright/test"
 import { LoginPage } from "../pages/loginpage";
 import { HomePage } from "../pages/homepage";
@@ -20,6 +21,7 @@ export class CustomWorld extends World {
     accounSuccessPage!: AccountSuccessPage;
     searchPage!: SearchPage;
     productPage!: ProductPage;
+    addressbookPage!: AddressBookPage;
 
 }
 setWorldConstructor(CustomWorld);

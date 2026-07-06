@@ -4,7 +4,7 @@
     "elements": [
       {
         "description": "",
-        "id": "test-cart-functionality-of-tutorials-ninja-ecommerce-application;",
+        "id": "address-add-functionality-test;",
         "keyword": "Scenario",
         "line": 12,
         "name": "",
@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 502534200
+              "duration": 187875500
             }
           },
           {
@@ -26,8 +26,9 @@
               "location": "src\\test\\stepDefinitions\\login.step.ts:8"
             },
             "result": {
-              "status": "passed",
-              "duration": 1189486499
+              "status": "failed",
+              "duration": 5007409900,
+              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (D:\\POM_Playwright_Cucumber\\node_modules\\@cucumber\\cucumber\\src\\time.ts:50:14)\n    at listOnTimeout (node:internal/timers:605:17)\n    at processTimers (node:internal/timers:541:7)"
             }
           },
           {
@@ -39,8 +40,8 @@
               "location": "src\\test\\stepDefinitions\\login.step.ts:13"
             },
             "result": {
-              "status": "passed",
-              "duration": 1976057200
+              "status": "skipped",
+              "duration": 0
             }
           },
           {
@@ -52,8 +53,8 @@
               "location": "src\\test\\stepDefinitions\\login.step.ts:19"
             },
             "result": {
-              "status": "passed",
-              "duration": 3231056700
+              "status": "skipped",
+              "duration": 0
             }
           },
           {
@@ -65,8 +66,8 @@
               "location": "src\\test\\stepDefinitions\\login.step.ts:24"
             },
             "result": {
-              "status": "passed",
-              "duration": 144054699
+              "status": "skipped",
+              "duration": 0
             }
           },
           {
@@ -78,8 +79,8 @@
               "location": "src\\test\\stepDefinitions\\login.step.ts:33"
             },
             "result": {
-              "status": "passed",
-              "duration": 58304700
+              "status": "skipped",
+              "duration": 0
             }
           },
           {
@@ -91,103 +92,171 @@
               "location": "src\\test\\stepDefinitions\\login.step.ts:42"
             },
             "result": {
-              "status": "passed",
-              "duration": 2194186200
+              "status": "skipped",
+              "duration": 0
             }
           },
           {
             "arguments": [],
-            "keyword": "When ",
+            "keyword": "And ",
             "line": 13,
-            "name": "The User Enter the product name in Search Bar",
+            "name": "The User Clicks on Address Book",
             "match": {
-              "location": "src\\test\\stepDefinitions\\cart.step.ts:5"
+              "location": "src\\test\\stepDefinitions\\address.step.ts:5"
             },
             "result": {
-              "status": "passed",
-              "duration": 100228199
+              "status": "skipped",
+              "duration": 0
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
             "line": 14,
-            "name": "The User Clicks on Search Button",
+            "name": "The User Clciks on New Adderess In Address Book Page",
             "match": {
-              "location": "src\\test\\stepDefinitions\\cart.step.ts:9"
+              "location": "src\\test\\stepDefinitions\\address.step.ts:9"
             },
             "result": {
-              "status": "passed",
-              "duration": 471415800
+              "status": "skipped",
+              "duration": 0
             }
           },
           {
-            "arguments": [],
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "firstName",
+                      "Rishwanth"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "lastName",
+                      "Adhishwar"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "company",
+                      "ABC"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "address",
+                      "ABC Road JDBC"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "city",
+                      "Coimbatore"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "postCode",
+                      "656003"
+                    ]
+                  }
+                ]
+              }
+            ],
             "keyword": "And ",
             "line": 15,
-            "name": "The user Clicks a Product On Search Results",
+            "name": "The User Enters Address Details",
             "match": {
-              "location": "src\\test\\stepDefinitions\\cart.step.ts:13"
+              "location": "src\\test\\stepDefinitions\\address.step.ts:13"
             },
             "result": {
-              "status": "passed",
-              "duration": 711885400
+              "status": "skipped",
+              "duration": 0
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
-            "line": 16,
-            "name": "The user Clicks On Add to cart Button in Product Description",
+            "line": 22,
+            "name": "The User Select Country options in DropDown",
             "match": {
-              "location": "src\\test\\stepDefinitions\\cart.step.ts:17"
+              "location": "src\\test\\stepDefinitions\\address.step.ts:18"
             },
             "result": {
-              "status": "passed",
-              "duration": 733292299
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "The User SelectRegion/state Options in DropDown",
+            "match": {
+              "location": "src\\test\\stepDefinitions\\address.step.ts:22"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 24,
+            "name": "The User Clicks on Continue Button",
+            "match": {
+              "location": "src\\test\\stepDefinitions\\register.step.ts:22"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
             }
           },
           {
             "arguments": [],
             "keyword": "Then ",
-            "line": 17,
-            "name": "The User Should see a Success Message Product Added to Cart",
+            "line": 25,
+            "name": "The User Should See A Success Message",
             "match": {
-              "location": "src\\test\\stepDefinitions\\cart.step.ts:21"
+              "location": "src\\test\\stepDefinitions\\address.step.ts:26"
             },
             "result": {
-              "status": "passed",
-              "duration": 229418600
+              "status": "skipped",
+              "duration": 0
             }
           },
           {
             "keyword": "After",
             "hidden": true,
             "result": {
-              "status": "passed",
-              "duration": 165355599
+              "status": "failed",
+              "duration": 5004502500,
+              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (D:\\POM_Playwright_Cucumber\\node_modules\\@cucumber\\cucumber\\src\\time.ts:50:14)\n    at listOnTimeout (node:internal/timers:605:17)\n    at processTimers (node:internal/timers:541:7)"
             }
           }
         ],
         "tags": [
           {
-            "name": "@regression",
+            "name": "@address",
             "line": 1
           }
         ],
         "type": "scenario"
       }
     ],
-    "id": "test-cart-functionality-of-tutorials-ninja-ecommerce-application",
+    "id": "address-add-functionality-test",
     "line": 2,
     "keyword": "Feature",
-    "name": "Test Cart Functionality of Tutorials Ninja Ecommerce Application",
+    "name": "Address Add Functionality Test",
     "tags": [
       {
-        "name": "@regression",
+        "name": "@address",
         "line": 1
       }
     ],
-    "uri": "src\\test\\features\\cart.feature"
+    "uri": "src\\test\\features\\address.feature"
   }
 ]

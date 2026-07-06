@@ -7,6 +7,7 @@
     "test": "cucumber-js",
     "smoke": "cucumber-js --tags @smoke",
     "regression": "cucumber-js --tags @regression",
+    "address":"cucumber-js --tags @address",
     "parallel": "cucumber-js --parallel 2",
     "re:fail": "cucumber-js -p rerun",
     "ci": "cucumber-js --tags @smoke --format json:reports/report.json",

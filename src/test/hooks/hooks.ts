@@ -10,6 +10,7 @@ import { RegisterPage } from "../pages/registerpage";
 import { AccountSuccessPage } from "../pages/accountSuccesspage";
 import { SearchPage } from "../pages/searchpage";
 import { ProductPage } from "../pages/productpage";
+import { AddressBookPage } from "../pages/addressbookpage";
 
 let browser: Browser;
 BeforeAll(async () => {
@@ -33,6 +34,7 @@ Before(async function (this: CustomWorld) {
     this.accounSuccessPage = new AccountSuccessPage(this.page);
     this.searchPage = new SearchPage(this.page);
     this.productPage = new ProductPage(this.page);
+    this.addressbookPage = new AddressBookPage(this.page);
 });
 After(async function (this: CustomWorld, { pickle, result }) {
 

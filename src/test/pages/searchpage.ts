@@ -12,6 +12,6 @@ export class SearchPage extends BasePage {
     }
 
     async clickFirstProduct() {
-        await this.click(this.searchResult);
+        await this.domClick(this.searchResult);
     }
 }

@@ -2,8 +2,8 @@ import { When, Then } from "@cucumber/cucumber";
 import { CustomWorld } from "../world/world";
 import { logger } from "../utils/logger";
 
-When('The User Enter the product name in Search Bar', async function (this: CustomWorld) {
-    await this.accountPage.enterValueSB("iphone");
+When('The User Enter the product name as {string} in Search Bar', async function (this: CustomWorld, string) {
+    await this.accountPage.enterValueSB(string);
 });
 
 When('The User Clicks on Search Button', async function (this: CustomWorld) {

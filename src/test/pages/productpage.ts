@@ -13,7 +13,7 @@ export class ProductPage extends BasePage {
         this.cartAddSuccessMsg = page.locator('//div[@class="alert alert-success alert-dismissible"]');
     }
     async clickAddtoCart() {
-        await this.click(this.addToCartBtn);
+        await this.domClick(this.addToCartBtn);
     }
     async assertCartAddSuccessMessage() {
         await this.toContainText(this.cartAddSuccessMsg, "Success: You have added ");
